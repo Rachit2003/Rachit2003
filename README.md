@@ -44,8 +44,7 @@
   Tech: Excel, Tableau, SQL (Google BigQuery)
 
 - 🔹 **Netflix Data Analysis**  
-  Cleaned and analyzed the Netflix dataset to derive insights on genres, release trends, ratings, and duration.  
-  Tech: SQL, Python (Pandas, Matplotlib), Jupyter Notebook
+  This project performs end-to-end SQL-based analysis on Netflix's content catalog to solve 15 business and analytical problems. It showcases practical SQL skills including window functions, date operations, text search, filtering, and aggregation.
 
 ---
 
