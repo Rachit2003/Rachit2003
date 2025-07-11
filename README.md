@@ -36,8 +36,8 @@
 ### 📌 Notable Projects
 
 - 🔹 **ASCII ClassCapture**  
-  AI-powered system for real-time classroom transcription, summarization, and note generation.  
-  Tech: FastAPI, React (Next.js), WebSockets, OpenAI API, Tailwind CSS
+  AI-powered system for real-time classroom transcription, summarization, and PowerPoint generation.  
+  Tech: Whisper-small, Gemini LLM, FastAPI, Streamlit, Tailwind CSS, Python-pptx, HuggingFace, BeautifulSoup
 
 - 🔹 **Sales Performance Dashboard**  
   Interactive Tableau dashboard analyzing monthly revenue, conversion rates, and product performance.  
